@@ -1,0 +1,4 @@
+*.py[cod]
+*$py.class
+.DS_Store
+.ipynb_checkpoints
